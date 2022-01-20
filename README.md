@@ -3,14 +3,7 @@
 # Important - Read these points first
 
 - Original repo is https://github.com/lzzy12/python-aria-mirror-bot
-- I have collected some cool features from various repositories and merged them
-  in one.
-- So, credits goes to original repo holder, not to me. I have just collected
-  them.
-- This (or any custom) repo is not supported in official bot support group.
-- So if you have any issue then check first that issue is in official repo or
-  not, You are only allowed to report that issue in bot support group if that
-  issue is also present in official repo.
+
 
 # Features supported:
 
