@@ -1,8 +1,6 @@
 [![HarshMirroRepo](https://i.ibb.co/ZG4bH7D/Pics-Art-01-20-09-22-24.jpg)](https://t.me/HarshMirrorRepo)
 
-# Important - Read these points first
 
-- Original repo is https://github.com/lzzy12/python-aria-mirror-bot
 
 
 # Features supported:
