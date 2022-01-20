@@ -1,4 +1,4 @@
-[![HarshMirroRepo](https://telegra.ph/file/5d6de8adcfc1a7917c422.jpg)](https://t.me/HarshMirrorRepo)
+[![HarshMirroRepo](https://i.ibb.co/ZG4bH7D/Pics-Art-01-20-09-22-24.jpg)](https://t.me/HarshMirrorRepo)
 
 # Important - Read these points first
 
