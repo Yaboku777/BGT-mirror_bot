@@ -48,34 +48,9 @@ MyTdName2 tdID IndexLink(if available)
 ```
 Turn On RECURSIVE_SEARCH In Config -RECURSIVE_SEARCH = "True"
 
-## Credits :-
 
-- First of all, full credit goes to
-  [Shivam Jha aka lzzy12](https://github.com/lzzy12) and
-  [JaskaranSM aka Zero Cool](https://github.com/jaskaranSM) They build up this
-  bot from scratch.
-- Then a huge thanks to [Sreeraj V R](https://github.com/SVR666) You can
-  checkout his [repo here](https://github.com/SVR666/LoaderX-Bot)
-- Features added from [Sreeraj V R's](https://github.com/SVR666) repo 
-    And Anas [repo here](https://github.com/breakdowns/slam-mirrorbot) Repo (Archived)
-- Thanks To Ken For Base Repo 
-    checkout his [repo here](https://github.com/KenHV/Mirror-Bot)
       
 
-````
-1. Added Inline Buttons
-2. Added /del command to delete files from drive
-3. /list module will post search result on telegra.ph ```
-````
-
-- Special thanks to [archie](https://github.com/archie9211) for very much useful
-  feature **Unzipmirror**
-
-````
-1. unzipmirror
-2. Update tracker list dynamically
-3. Fix SSL handsake error ```
-````
 
 # What is this repo about?
 
