@@ -65,7 +65,7 @@ in JS.
 <p><a href="https://telegra.ph/Hosting-Mirror-Bot-Guide-10-26"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 # Contact Me 
-- [Telegram](https://T.me/HarshMirrorRepo)
+- [Telegram](https://t.me/Mr_Rahul_77)
 
 ## Generate Database
 <details>
